@@ -27,18 +27,26 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+This gif shows how the user can add or remove items from the list
 
 <img src='walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+This gif shows how the items persist even though the app has been restarted
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While building the app, I was trying to follow the video walkthroughs which 
+were provided. However, I couldn't get the recycler viewer to display the 
+list items despite closely following the tutorial. I got very frustrated 
+and almost gave up. But I then found another tutorial online also done 
+by CodePath for a Todo app. I followed that one instead and it ended up 
+working for me. Here's the link: https://guides.codepath.com/android/Basic-Todo-App-Tutorial. 
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Angela Cruz]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
