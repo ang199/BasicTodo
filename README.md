@@ -39,8 +39,8 @@ While building the app, I was trying to follow the video walkthroughs which
 were provided. However, I couldn't get the recycler viewer to display the 
 list items despite closely following the tutorial. I got very frustrated 
 and almost gave up. But I then found another tutorial online also done 
-by CodePath for a Todo app. I followed that one instead and it ended up 
-working for me. Here's the link: https://guides.codepath.com/android/Basic-Todo-App-Tutorial. 
+by CodePath for a Todo app. I followed that one instead and that is how I ended
+up completing the project. Here's the link: https://guides.codepath.com/android/Basic-Todo-App-Tutorial. 
 
 
 ## License
