@@ -40,6 +40,8 @@ and almost gave up. But I then found another tutorial online also done
 by CodePath for a Todo app. I followed that one instead and that is how I ended
 up completing the project. Here's the link: https://guides.codepath.com/android/Basic-Todo-App-Tutorial. 
 
+Update 1/14 - I believe my previous walkthrough gif did not show all the user stories that my app is required and able to do. So, I now have a new gif
+which hopefully better reflects that my app can indeed add, remove, and persist items.
 
 ## License
 
